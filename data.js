@@ -260,6 +260,12 @@ var data = {
             weight: "2",
             incompatible: [],
             items: ["mace"]
+        },
+        lunge: {
+            levelMax: "3",
+            weight: "5",
+            incompatible: [],
+            items: ["spear"]
         }
     },
     items: [
@@ -269,7 +275,7 @@ var data = {
         'boots',
         'turtle_shell',
         'elytra',
-
+        'spear',
         'sword',
         'axe',
         'mace',
